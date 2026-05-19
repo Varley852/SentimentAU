@@ -1,6 +1,10 @@
 fastapi
-uvicorn
+uvicorn[standard]
 spacy
 textblob
 sqlalchemy
 pydantic
+aiosqlite
+python-dotenv
+pytest
+httpx
